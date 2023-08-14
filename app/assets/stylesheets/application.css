@@ -13,3 +13,17 @@
  *= require_tree .
  *= require_self
  */
+
+ #borders {
+  border-color: blueviolet;
+ }
+
+ #ask {
+  color: blueviolet;
+  background-color: pink;
+  border-color: blueviolet;
+ }
+
+ .color {
+  color: purple;
+}
